@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate developer with a love for learning new technologies. <br><br>🚀 Currently learning: MERN stack technology.<br><br>🔧 I enjoy working on new and innovative projects.<br><br>🌱 I'm always looking to improve my skills and contribute to interesting projects.<br>
+👋 Hi there! I'm a passionate developer with a love for learning new technologies. <br><br>🚀 Currently learning: Spring Boot technology.<br><br>🔧 I enjoy working on new and innovative projects.<br><br>🌱 I'm always looking to improve my skills and contribute to interesting projects.<br>
 
 
 ## 🌐 Socials:
